@@ -1,7 +1,7 @@
 # Дипломное задание по курсу «JavaScript-программирование для начинающих»
 
 ##==============
-- Ссылка на githubPage: https://github.com/gagysya/js-cp-diploma-edited/
+- Ссылка на githubPage: https://gagysya.github.io/js-cp-diploma-edited/
 - Стэк технологий: HTML, CSS, JavaScript, Git
 ##==============
 
